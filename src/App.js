@@ -17,8 +17,6 @@ function App() {
           <Products />
         </Route>
       </main>
-
-      <h2>Let's get started!</h2>
     </div>
   );
 }
